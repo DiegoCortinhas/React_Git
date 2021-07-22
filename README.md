@@ -2,7 +2,6 @@ Project to consume GitHub API and return all the repositories of the searched us
 
 Technologies
 
-ReactJs
 Javascript
 
 # Getting Started with Create React App
