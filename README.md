@@ -1,3 +1,10 @@
+Project to consume GitHub API and return all the repositories of the searched user. 
+
+Technologies
+
+ReactJs
+Javascript
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
